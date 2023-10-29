@@ -7,7 +7,7 @@ Style index for directory
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link href="https://fonts.googleapis.com/css?family=Righteous" rel="stylesheet">
-<link rel="stylesheet" href="https://raw.githubusercontent.com/ZedLicense/Zedlicense-index/main/style.css">
+<link rel="stylesheet" href="https://github.com/ZedLicense/Zedlicense-index/blob/main/style.css">
 </head>
 <body>
 <div class="maindiv">
